@@ -114,7 +114,7 @@ const Layout = ({QQQ}) => {
 
 
             <Outlet/>
-            <All arr={cars}/>
+            {/*<All arr={cars}/>*/}
 
 
         </>

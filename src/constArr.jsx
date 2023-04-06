@@ -19,7 +19,7 @@ export const cars = [
     },
     {
         id: 3,
-        label: 'MAZDA',
+        label: 'AUDI',
         model: '3',
         power: 1.6,
         year: 2010,

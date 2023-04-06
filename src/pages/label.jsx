@@ -1,11 +1,17 @@
 import {cars} from "../constArr"
 
-
 const filterCars = cars;
+
+
+
+
+
 function typeOfProducts(arr, label) {
     return arr.filter(pr => pr.label == label)
 
 }
+
+
 
 console.log(typeOfProducts(filterCars, 'AUDI'))
 
